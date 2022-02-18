@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# Link: https://horvathl1.github.io/singlePageApp
+Link: https://horvathl1.github.io/singlePageApp
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
